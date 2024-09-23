@@ -1,0 +1,25 @@
+header {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 1em;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.navigation a {
+    display: grid;
+    padding: 1em 2em;
+    text-align: center;
+    color: whitesmoke;
+}
+.produto {
+    display: grid;
+    width: 100px;
+    height: 100px;
+    padding: 1em;
+    border: 3px solid black;
+}
